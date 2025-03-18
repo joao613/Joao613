@@ -1,8 +1,6 @@
 ### 👋 Hello There, I’m João
 - 👀 I’m interested in ...
 - 📚 Software Development student at 42 Porto. Nickname: joamonte
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
 <!---
@@ -26,3 +24,7 @@ You can click the Preview link to take a look at your changes.
     --->
   </a>
 </p>
+
+## Contact Me
+<a href = "mailto:jpmf2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joaofonsec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
