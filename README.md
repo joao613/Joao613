@@ -1,0 +1,28 @@
+### 👋 Hello There, I’m João
+- 👀 I’m interested in ...
+- 📚 Software Development student at 42 Porto. Nickname: joamonte
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
+
+<!---
+Joao613/Joao613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao613&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,cmake,hack,shell,html,css&langs_count=6&hide_border=True" alt="GitHub Top Langs" style="border: none;" />
+    </td>
+  </tr>
+</table>
+
+## Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,bash,linux,vscode"/>
+   <!--- <img src="https://github.com/user-attachments/assets/6cc81c5f-aa56-4542-baae-9fdd4bd8b183"/>
+    --->
+  </a>
+</p>
