@@ -1,11 +1,9 @@
 ### 👋 Hello There, I’m João
-- 👀 I’m interested in ...
-- 📚 Software Development student at 42 Porto. Nickname: joamonte
-- ⚡ Fun fact: ...
 
+- 👨‍💻 A Software Developer, student at 42 Porto.
 <!---
-Joao613/Joao613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- - 👀 I’m interested in ...
+- ⚡ Fun fact: ...
 --->
 
 <table style="border: none;">
