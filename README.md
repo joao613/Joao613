@@ -2,7 +2,7 @@
 
 - 👨‍💻 An aspiring Software Developer
 - 📚 Graduated at 42 School Porto.
-- 👀 Iḿ Curious and always looking to learn new things
+- 👀 I'm Curious and always looking to learn new things
 
 <!---
 <table style="border: none;">
