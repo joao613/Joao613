@@ -1,6 +1,6 @@
 ### 👋 Hello There, I’m João
 
-- 👨‍💻 An aspiring Software Developer
+- 👨‍💻 A Software Developer
 - 📚 Graduated at 42 School Porto.
 - 👀 I'm Curious and always looking to learn new things
 
